@@ -4,12 +4,12 @@
     padding: 0;
     list-style-type: none;
 }
-.frequentlyVisited {
-    padding-right: 35px;
+.partitionSection {
+    padding-right: 30px;
     width: 120px !important;
     height: 120px !important;
 }
-.frequentlyVisitedRightMost {
+.partitionSectionRightMost {
     width: 120px !important;
     height: 120px !important;
 }
@@ -70,7 +70,7 @@ body {
 
 .main-content {
     position: relative;
-    width: 450px;
+    width: 650px;
     height: 250px;
     margin: 0 auto;
     top: 25vh;
@@ -118,7 +118,7 @@ input:focus {
     height: auto;
     z-index: 1;
     bottom: 4px;
-    left: 388px;
+    left: 598px;
 }
 
 .buttons {
@@ -181,4 +181,10 @@ footer a {
 }
 footer a:hover {
     text-decoration: underline;
+}
+.searchClass {
+    width: 200px;
+}
+.downsection {
+    margin-top: 25px;
 }

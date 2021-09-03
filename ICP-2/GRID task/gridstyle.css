@@ -1,8 +1,8 @@
-.flex-container {
+.mainclass {
     display: flex;
     justify-content: center;
 }
-.flex-item {
+.subclass {
     margin: 5px;
     height:70px;
     width:70px

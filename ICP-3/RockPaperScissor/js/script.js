@@ -1,11 +1,11 @@
 $(function() {
     $("button").click(function () {
         let userChoice = $(this).attr('id');
-        play(userChoice);
+        startgame(userChoice);
     });
 })
 
-function play(userChoice) {
+function startgame(userChoice) {
     let oppChoice = Math.random();
     let opponentChoice='';
     if (oppChoice<0.34)

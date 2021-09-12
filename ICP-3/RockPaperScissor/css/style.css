@@ -1,9 +1,3 @@
-header{
-    background-color: white;
-}
-.black{
-    background-color: black;
-}
 
 .pic{
     width:100px;
@@ -13,8 +7,6 @@ header{
 #content{
     display: -webkit-flex;
 }
-
-
 
 img{
     width: 150px;
@@ -38,6 +30,7 @@ img{
 .sample{
     height: 500px;
     width: 500px;
+
 }
 .backgroundImage{
     background-image: url('rps.jpeg');

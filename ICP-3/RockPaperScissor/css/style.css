@@ -1,0 +1,45 @@
+header{
+    background-color: white;
+}
+.black{
+    background-color: black;
+}
+
+.pic{
+    width:100px;
+    height:100px;
+}
+
+#content{
+    display: -webkit-flex;
+}
+
+
+
+img{
+    width: 150px;
+    height: 200px;
+}
+
+#paper{
+    margin-top: 280px;
+    margin-left: -240px;
+}
+#scissors{
+    margin-top: 280px;
+    margin-left: -390px;
+}
+
+#rock{
+    margin-top: 75px;
+    justify-content: center;
+    margin-left: 320px;
+}
+.sample{
+    height: 500px;
+    width: 500px;
+}
+.backgroundImage{
+    background-image: url('rps.jpeg');
+}
+
